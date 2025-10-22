@@ -1,5 +1,5 @@
 
-  # Fabian Louis Portfolio
+  # fabian-louis-portfolio
 
  <!-- ✨ Animated Typing Intro -->
 <h1 align="center">
