@@ -238,7 +238,7 @@ const FeaturesSection = () => {
                         variant="outline"
                         className="flex-1 border-border hover:border-primary/50 hover:text-primary"
                       >
-                        <a href="https://github.com/fabianlouis/kickitwithfab" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/fabian1ouis/kickitwithfab" target="_blank" rel="noopener noreferrer">
                           <Github className="w-4 h-4 mr-2" />
                           View Code
                         </a>
