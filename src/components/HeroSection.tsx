@@ -172,8 +172,8 @@ const HeroSection = () => {
               className="flex gap-4"
             >
               {[
-                { icon: Github, href: 'https://github.com/09c011ab0', label: 'GitHub', isCustom: false },
-                { icon: Linkedin, href: 'https://www.linkedin.com/in/fabian-louis-35b809198/', label: 'LinkedIn', isCustom: false },
+                { icon: Github, href: 'https://github.com/fabian1ouis', label: 'GitHub', isCustom: false },
+                { icon: Linkedin, href: 'https://www.linkedin.com/in/fabian-louis-dev/', label: 'LinkedIn', isCustom: false },
                 { icon: null, href: 'https://x.com/_fabianlouis', label: 'X', isCustom: true }
               ].map(({ icon: Icon, href, label, isCustom }) => (
                 <motion.a
