@@ -123,7 +123,7 @@ const CommandPalette = () => {
       icon: Linkedin,
       category: 'Social',
       action: () => {
-        window.open('https://www.linkedin.com/in/fabian-louis-35b809198/', '_blank');
+        window.open('https://www.linkedin.com/in/fabian-louis-dev/', '_blank');
         setIsOpen(false);
       },
       keywords: ['linkedin', 'professional', 'network']
