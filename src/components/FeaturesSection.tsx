@@ -134,7 +134,7 @@ const FeaturesSection = () => {
                   {/* Project Screenshot */}
                   <div className="relative aspect-video overflow-hidden bg-muted">
                     <img
-                      src={catchUpFabScreenshot}
+                      src="catchupwithfab.png"
                       alt="Catch Up With Fab - Tech Blog Platform"
                       className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
                     />
@@ -262,7 +262,7 @@ const FeaturesSection = () => {
                   {/* Project Screenshot */}
                   <div className="relative aspect-video overflow-hidden bg-muted">
                     <img
-                      src={youGuessedItScreenshot}
+                      src="youguessedit.png"
                       alt="You Guessed It - Number Guessing Game"
                       className="w-full h-full object-cover transition-transform duration-500 hover:scale-110"
                     />
