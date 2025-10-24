@@ -3,7 +3,6 @@ import { useState, useEffect } from 'react';
 import { ArrowRight, MapPin, Mail, Github, Linkedin, Terminal } from 'lucide-react';
 import { Button } from './ui/button';
 import XIcon from './XIcon';
-import profileImage from 'figma:asset/6420d19e4188645ef402bbd99ede7e44848fe928.png';
 
 const occupations = [
   'Full Stack Developer',
@@ -202,9 +201,11 @@ const HeroSection = () => {
               {/* Main Image Container */}
               <div className="relative aspect-square rounded-2xl overflow-hidden border border-border/50">
                 <img
-                  src={profileImage}
-                  alt="Fabian Louis - Full Stack Developer"
-                  className="w-full h-full object-cover object-center"
+                 src="/profile-new.jpg"
+                 alt="Fabian Louis - Full Stack Developer"
+                 className="w-full h-full object-cover object-center"
+                />
+
                 />
                 {/* Subtle Overlay */}
                 <div className="absolute inset-0 bg-gradient-to-t from-background/60 via-transparent to-transparent" />
