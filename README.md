@@ -49,6 +49,7 @@ I built this project from the ground up to showcase:
 
 ## 📂 Folder Structure
 fabian-louis-portfolio/
+├── public/
 ├── src/
 │ ├── components/
 │ │ ├── HeroSection.tsx
