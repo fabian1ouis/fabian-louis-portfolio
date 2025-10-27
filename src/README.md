@@ -27,7 +27,7 @@ A sleek, modern, and highly interactive fullstack portfolio website built with R
 
 ## 🚀 Live Demo
 
-Visit the live portfolio: [fab.dev](https://fab.dev)
+Visit the live portfolio: [here](https://fabianlouis.vercel.app)
 
 ## 🛠️ Tech Stack
 
@@ -135,7 +135,7 @@ See [Guidelines.md](guidelines/Guidelines.md) for detailed information about:
 
 ## 🤝 Connect
 
-- **LinkedIn**: [Fabian Louis](https://ke.linkedin.com/in/fabian-louis-35b809198)
+- **LinkedIn**: [Fabian Louis](https://ke.linkedin.com/in/fabian-louis-dev)
 - **GitHub**: [@fabian1ouis](https://github.com/fabian1ouis)
 - **Email**: fabianlouis@gmail.com
 - **Location**: Nairobi, Kenya
