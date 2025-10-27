@@ -39,6 +39,11 @@ I built this project from the ground up to showcase:
 - 💅 **Tailwind CSS** — Clean and responsive styling  
 - ☁ **Vercel** — Deployment and Hosting  
 - 🌗 Dark/Light Theme + Smooth Animations
+  
+![Portfolio Preview](https://img.shields.io/badge/Status-Active-success)
+![React](https://img.shields.io/badge/React-18+-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5+-blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.0-06b6d4)
 
 ---
 
