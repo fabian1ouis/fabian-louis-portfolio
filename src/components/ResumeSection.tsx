@@ -77,7 +77,7 @@ const ResumeSection = () => {
     {
       degree: 'Bachelor of Science in Information Technology',
       institution: 'Muranga University of Technology',
-      period: '2015 - 2019',
+      period: '2017 - 2021',
       honors: 'Second Class Honors',
       relevant: [
         'Web Development',
